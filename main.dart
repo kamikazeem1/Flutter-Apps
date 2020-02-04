@@ -14,18 +14,3 @@ class App extends StatelessWidget {
     );
   }
 }
-/*
-class FavoriteCity extends StatefulWidget {
-  @override
-  _State createState() => _State();
-}
-
-class _FavoriteCityState extends State<FavoriteCity> {
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      
-    );
-  }
-}
-*/
